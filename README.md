@@ -34,20 +34,6 @@ It’s designed to be:
 
 ---
 
-## 📂 Project Structure
-automation-framework/
-├── pages/             # Page Objects (one class per page)
-│   └── login_page.py
-├    ── pagemanager.py     # Central PageManager for pages & keywords
-├── keywords/          # Optional Keyword Layer (business flows)
-│   └── login_keywords.py
-├── tests/             # Pytest test cases
-│   └── test_login.py
-├── conftest.py        # Pytest fixtures (browser setup, teardown)
-├── variables.py       # Global test data / environment variables
-├── requirements.txt   # Python dependencies
-└── reports/           # Allure report output
-
 **Folder/Files Explained:**
 - **pages/**: Each file defines a Page Object with locators & actions.
 - **keywords/**: High-level, reusable workflows (optional).
