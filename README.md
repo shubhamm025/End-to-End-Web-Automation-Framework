@@ -45,6 +45,6 @@ It’s designed to be:
 
 ### Installation
 ```bash
-git clone https://github.com/shubhamm025/automation-framework.git
-cd automation-framework
+git clone https://github.com/shubhamm025/End-to-End-Web-Automation-Framework.git
+cd End-to-End-Web-Automation-Framework
 pip install -r requirements.txt
