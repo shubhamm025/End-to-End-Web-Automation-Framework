@@ -4,6 +4,7 @@ A robust, extensible **Python test automation framework** combining **Pytest**, 
 
 Built by [Shubham Motwani](https://github.com/shubhamm025) to **showcase best practices** in modern QA automation and provide a template for real-world projects.
 
+
 ---
 
 ## 📄 Project Overview
@@ -43,8 +44,13 @@ It’s designed to be:
 - **variables.py**: Centralized test data/config variables.
 - **reports/**: Allure report outputs after test runs.
 
+  <img width="1727" height="789" alt="Screenshot 2025-09-28 at 11 23 53 AM" src="https://github.com/user-attachments/assets/09b2d965-6eda-414c-bf06-8e6b54ad47d5" />
+
 ### Installation
 ```bash
 git clone https://github.com/shubhamm025/End-to-End-Web-Automation-Framework.git
 cd End-to-End-Web-Automation-Framework
 pip install -r requirements.txt
+
+
+
